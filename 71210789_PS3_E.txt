@@ -1,0 +1,19 @@
+Algoritma dengan Pseudocode (algoritma menentukan deret bilangan Fibonacci)
+
+1 1 2 3 5 8 13 ...
+n adalah batasan bilangan fibonacci
+c adalah suku pertama dan kedua
+
+f(c) adalah fibonacci(c)
+interger = c, n, f(c)
+
+input n;
+
+if c = 0 atau c = 1 then
+   cetak "f(c)=c"
+else
+
+while c>1 dan c≤n do
+      f(c) = f(c-1) + f(c-2)
+      cetak f(c)
+      c = c + 1
