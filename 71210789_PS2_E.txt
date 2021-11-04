@@ -1,0 +1,7 @@
+Dari gambar tersebut terdapat gelas kosong yang akan diisi air dari keran. 
+Berdasarkan urutan gambar, gelas yang terlebih dahulu akan terisi penuh oleh air adalah gelas nomor 2. 
+Gelas nomor 2 akan terisi lebih dahulu karena terhubung langsung dengan gelas nomor 4 yang merupakan pusat awal pengisian air. 
+Dimana pada gelas nomor 4 urutan aliran pipa paling rendah menuju pada gelas nomor 2.
+Gelas nomor 3 tidak terisi terlebih dahulu dikarenakan ketika gelas nomor 3 sudah terisi setengah bagian maka gelas nomor 2 dapat dipastikan sudah terisi penuh.
+Sedangkan pada gelas nomor 1 dan 5 tidak akan terisi air karena aliran pipa menuju gelas tersebut ditutup.
+Begitupula pada gelas nomor 6 dan 7, aliran pipa menuju gelas tersebut berada pada titik teratas gelas, maka dari itu air yang dialirkan juga terlambat untuk mengalir.
