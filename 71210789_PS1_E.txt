@@ -1,0 +1,26 @@
+1021+1022+1023+…+3018+3019+3020 = ?
+
+Dik : 	n1 = 1020
+	n2 = 3020
+
+Dit : jumlah bilangan tersebut
+
+Peny :	
+* Jumlah bilangan sampai angka 1020 (a)
+Sn = 1/2 n1 ( n1 + 1 )
+Sn = 1/2 . 1020 [ 1020 + 1 ]
+Sn = 510 [ 1021 ]
+Sn = 520.710
+
+* Jumlah bilangan mulai dari angka 1021 (b)
+Sn = 1/2 n2 ( n2 + 1 )
+Sn = 1/2 . 3020 [ 3020 + 1 ]
+Sn = 1510 [ 3021 ]
+Sn = 4.561,710
+
+* Jumlah bilangan
+Jumlah bilangan = b - a
+		= 4.561,710 - 520.710
+		= 4.041,000
+
+Maka, jumlah bilangan dari 1021+1022+1023+…+3018+3019+3020 = 4.041,000
